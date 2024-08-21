@@ -1,0 +1,302 @@
+{
+  "sections": {
+    "video_U4VrAa": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_K9rHbp": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_D9XdNM": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>DISCOVER THE SECRET<\/strong>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_D9XdNM"
+      ],
+      "disabled": true,
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_V6QpM4": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <style>\n        img {\n            width: 15%;\n            height: 5px;\n            display: block;\n            margin: auto;\n        }\n    <\/style>\n<\/head>\n<body>\n\n<img src=\"https:\/\/i.imgur.com\/PR2SQOM.png\" alt=\"Slika\">\n\n<\/body>\n<\/html>",
+        "color_scheme": "",
+        "padding_top": 8,
+        "padding_bottom": 32
+      }
+    },
+    "rich_text_Ut8BPw": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_MHMEtQ": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "<strong>DISCOVER THE SECRET<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_pBtg7K": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Inspired by the red ceramic detail which discretely embellishes the inside of each piece from the collection; 'Secret' signifies the beauty and sacredness of the unknown. The element of mystery. The unseen. The hidden. An inner circle, harnessing an exclusive element kept.<br\/><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_MHMEtQ",
+        "text_pBtg7K"
+      ],
+      "disabled": true,
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_Y7aALR": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <style>\n        \/* Stil za povećanje celokupnog sadržaja *\/\n        body {\n            font-size: 20px;\n        }\n        \/* Stil za centrirani crveni tekst sa linijom ispod *\/\n        .shop-collection {\n            color: #c72c2f; \/* Boja teksta *\/\n            text-decoration: none; \/* Uklanjanje uobičajenog underlininga *\/\n            display: inline-block; \/* Omogućava centriranje *\/\n            border-bottom: 3px solid #c72c2f; \/* Linija ispod teksta *\/\n            cursor: pointer; \/* Dodatni CSS za promenu kursora kada je preko linka *\/\nfont-weight: bold;\n        }\n    <\/style>\n<\/head>\n<body>\n\n<p style=\"text-align: center;\"><span class=\"shop-collection\" onclick=\"window.location.href='https:\/\/ecrinparis.store\/'\">SHOP COLLECTION<\/span><\/p>\n\n<\/body>\n<\/html>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "collection_list_CCxMtQ": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_ek4RiW": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bracelets"
+          }
+        },
+        "featured_collection_KNctVA": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "necklace"
+          }
+        },
+        "featured_collection_iQzUjX": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "earrings"
+          }
+        },
+        "featured_collection_cgnEgQ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "rings"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_ek4RiW",
+        "featured_collection_KNctVA",
+        "featured_collection_iQzUjX",
+        "featured_collection_cgnEgQ"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".collection-list-wrapper .full-unstyled-link {display: block; text-align: center; font-weight: bold;}",
+        ".card .icon-wrap {display: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_tGr9zc": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Discover Text<\/title>\n    <style>\n        .discover {\n            color: red;\n            text-decoration: underline;\n            font-size: 10px;\nmargin-left: 155px;\n            margin-right: 50px;\n\n            display: inline-block;\n        }\n    <\/style>\n<\/head>\n<body>\n    <div class=\"discover\" style=\"margin-right: 60px;\">DISCOVER<\/div>\n    <div class=\"discover\" style=\"margin-right: 125px;\">DISCOVER<\/div>\n    <div class=\"discover\" style=\"margin-left: 90px;\">DISCOVER<\/div>\n    <div class=\"discover\" style=\"margin-left: 160px;\">DISCOVER<\/div>\n<\/body>\n<\/html>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "divider_jXB37X": {
+      "type": "divider",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "height": 1,
+        "color": "#c72c2f",
+        "full_width": false
+      }
+    },
+    "image_with_text_eyXnkC": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_hRhw3L": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>REVERAL THE TRUTH<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_WPUjMA": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "caption_fpRNMy": {
+          "type": "caption",
+          "settings": {
+            "caption": "",
+            "text_style": "subtitle",
+            "text_size": "large"
+          }
+        }
+      },
+      "block_order": [
+        "heading_hRhw3L",
+        "text_WPUjMA",
+        "caption_fpRNMy"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".image-with-text__heading.inline-richtext.h1 {text-decoration: underline #c32c2f; \/* Boja podcrtaja *\/ text-underline-offset: 15px; \/* Duljina podcrtaja *\/ text-decoration-skip-ink: none;}",
+        ".image-with-text__text.image-with-text__text--caption.subtitle.subtitle--large {color: #c32c2f; font-weight: bold; text-decoration: underline; text-underline-offset: 10px;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Asset_18.png",
+        "height": "large",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "scheme-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "slideshow_3dfjVH": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_fPJNDp": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Asset_19.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_fPJNDp"
+      ],
+      "disabled": true,
+      "settings": {
+        "layout": "grid",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "newsletter_YxEXk8": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_cLYp8n": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>SUBSCRIBE TO OUR NEWSLETTER<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "email_form_HiEwKH": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_cLYp8n",
+        "email_form_HiEwKH"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "scheme-4",
+        "full_width": true,
+        "padding_top": 72,
+        "padding_bottom": 76
+      }
+    },
+    "pagefly-home": {
+      "type": "pagefly-home",
+      "settings": {}
+    }
+  },
+  "order": [
+    "video_U4VrAa",
+    "rich_text_K9rHbp",
+    "custom_liquid_V6QpM4",
+    "rich_text_Ut8BPw",
+    "custom_liquid_Y7aALR",
+    "collection_list_CCxMtQ",
+    "custom_liquid_tGr9zc",
+    "divider_jXB37X",
+    "image_with_text_eyXnkC",
+    "slideshow_3dfjVH",
+    "newsletter_YxEXk8",
+    "pagefly-home"
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "slideshow_jk8fqb": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_cqzWLC": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Asset_20.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_cqzWLC"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": ""
+      }
+    },
+    "rich_text_F6JAf8": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_9a8cDk": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>OUR STORY<\/strong>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_9a8cDk"
+      ],
+      "custom_css": [
+        ".rich-text__heading strong {position: relative; \/* Postavljanje relativne pozicije za precizno pozicioniranje *\/ color: black; \/* Crna boja teksta *\/ text-decoration: underline; \/* Dodavanje underline-a *\/ text-decoration-color: #c72c2f; \/* Boja underline-a *\/ text-underline-offset: 8px; \/* Odmak underlina od teksta *\/ height: 4px; \/* Debljina underline-a *\/ }"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_9HJCtn": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <style>\n        img {\n            width: 15%;\n            height: 5px;\n            display: block;\n            margin: auto;\n        }\n    <\/style>\n<\/head>\n<body>\n\n<img src=\"https:\/\/i.imgur.com\/PR2SQOM.png\" alt=\"Slika\">\n\n<\/body>\n<\/html>",
+        "color_scheme": "",
+        "padding_top": 24,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_cWaRYz": {
+      "type": "rich-text",
+      "blocks": {
+        "text_hWqJVw": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Step into the captivating world of Écrin, where timeless elegance converges with contemporary flair, reshaping modern luxury. Our jewelry stands as a testament to boldness and unwavering vision, offering a refreshing perspective to the industry.<br\/><br\/>The journey began amidst the allure of the French capital, driven by an insatiable passion for the extraordinary, sparked by countless meanders through the enchanting streets of Paris.<br\/><br\/>Crafted with meticulous attention to detail, each piece emerges as a masterpiece, adorned with our exclusive signature red ceramic detail-a symbol of intensity that embodies the ethos and spirit of our brand.<br\/><br\/>Join us in embracing the pinnacle of luxury with Écrin, where every creation narrates a tale of refinement and individuality.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_hWqJVw"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 28,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_faefhQ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_CCPa7A": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>NEWS \/ PRESS<\/strong>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_CCPa7A"
+      ],
+      "disabled": true,
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_Ehcfyz": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <style>\n        body {\n            margin: 0;\n            padding: 0;\n        }\n        .container {\n            padding: 20px;\n        }\n        img {\n            width: 25%;\n            height: 40px;\n            display: block;\n            margin-left: 05px;\n        }\n    <\/style>\n<\/head>\n<body>\n\n<div class=\"container\">\n    <img src=\"https:\/\/i.imgur.com\/BU0R5G6.png\"",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 24
+      }
+    },
+    "featured_blog_7qhWLq": {
+      "type": "featured-blog",
+      "custom_css": [],
+      "settings": {
+        "heading": "<strong>NEWS \/ PRESS<\/strong>",
+        "heading_size": "h1",
+        "blog": "news",
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_image": true,
+        "show_date": false,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow_jk8fqb",
+    "rich_text_F6JAf8",
+    "custom_liquid_9HJCtn",
+    "rich_text_cWaRYz",
+    "rich_text_faefhQ",
+    "custom_liquid_Ehcfyz",
+    "featured_blog_7qhWLq"
+  ]
+}

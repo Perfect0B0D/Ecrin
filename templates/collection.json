@@ -1,0 +1,88 @@
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "scheme-1"
+      }
+    },
+    "video_tydJhB": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video": "shopify:\/\/files\/videos\/ECRIN NUDES V1.mp4",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_nWTMaE": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_EmQCce": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>DISCOVER THE SECRET<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_WcayF3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>With the elegance of the red ceramic detail gracing every piece in the collection, 'Secret' embodies the beauty and sanctity of the unknown. It embraces the element of mystery, the unseen, and the hidden treasures waiting to be revealed. Experience the exclusive allure of our inner circle, where a coveted<br\/>element is surrounded with utmost exclusivity.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_EmQCce",
+        "text_WcayF3"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "custom_css": [
+        ".card-information > .price {display: none !important;}",
+        ".full-unstyled-link {font-weight: bold;}"
+      ],
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 3,
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "enable_filtering": false,
+        "filter_type": "horizontal",
+        "enable_sorting": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "video_tydJhB",
+    "rich_text_nWTMaE",
+    "product-grid"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "rich_text_rE3YYM": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_GpWiMx": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>SHIPPING & DELIVERY<\/strong>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_GpWiMx"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_gNkxwf": {
+      "type": "rich-text",
+      "blocks": {
+        "text_9iwtKm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>You may return your Ecrin piece purchased directly from Ecrin for a full refund within 14 calendar days from the date of purchase by contacting our dedicated Concierge Service at returns@ecipes.com providing your name, address and order number. A member of our concierge team will send you an e-mail acknowledging the receipt of your return request<br\/><br\/>If you are returning or exchanging your piece, please carefully review the following terms:<br\/><br\/>1. Ensure that your return or exchange meets the conditions outlined below:<br\/><br\/>[ ] Creations that have been engraved, embossed, or modified cannot be returned or exchanged.<br\/><br\/>[] Ecrin will not accept a retum if the creation shows signs of wear, has been used or has been altered from its origi nal condition in any way<br\/><br\/>-[] All returns must include the original sales receipt, warranty or authenticity card and be returned in original pack- aging<br\/><br\/>2. Contact us via email at retumscriparis.com to register your return or exchange. Please provide your full name, address and order number. Our Concierge Service will arrange the returns courier.<br\/><br\/>3. Place the Ecrin piece you wish to return or exchange in the original packaging and close securely with the provided seal. Place it in a shipping box with the completed return form, warranty or authenticity card and receipt. Please ensure the box is securely closed prior to attaching the shipping label.<br\/><br\/>4. Our Concierge Service will arrange the courier to collect the parcel and return it to Ecrin<br\/><br\/>Delivery lead times and fees depend on your delivery address. If you place your order before 12pm, you will benefit from an express delivery of 1-2 working days within the United Kingdom. You can check the estimated delivery time in the checkout page while processing your order online. Please note that this is an estimate and not a guarantee<br\/><br\/>Ecrin offers a secure complimentary shipping service worldwide.<br\/><br\/>Please see the list of concerned countries below:<br\/><br\/>Europe: Albania, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany Greece Hungary Iceland, Ireland, Israel, Italy, Latvia, Lithuania Luxembourg, Malta, Monaco, Nether lands Norway Poland Portugal Romania Russia Slovakia Slovenia, Spain, Switzerland Sweden United Kingdom.<br\/><br\/>South America: Aruba, Bahamas, Bolivia, Brazil Chile Colombia, Costa Rica, Dominican Republic Ecuador Guatemala Honduras, Jamaica, Mexico, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Uruguay Venezuela<br\/><br\/>Asia: Thailand, Malaysia, Japan, China, Hong Kong, South Korea<br\/><br\/>Asia\/Pacific: Singapore, Australia<br\/><br\/>Middle East: United Arab Emirates, Saudi Arabia<br\/><br\/>North America: United States, Canada<br\/>Please note, Ecrin does not deliver to PO boxes. For any enquiries related to the delivery of your item please get in touch with hello@criparis.com<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_9iwtKm"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "pagefly_section_78bMe6": {
+      "type": "pagefly-section",
+      "settings": {
+        "section_id": "pf-3016b3bc"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_rE3YYM",
+    "rich_text_gNkxwf",
+    "pagefly_section_78bMe6"
+  ]
+}

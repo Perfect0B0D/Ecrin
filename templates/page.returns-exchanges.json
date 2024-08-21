@@ -1,0 +1,69 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "rich_text_XHGkmm": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_HRRy4m": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>RETURNS & EXCHANGES<\/strong>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_HRRy4m"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_39ceXa": {
+      "type": "rich-text",
+      "blocks": {
+        "text_AJBekW": {
+          "type": "text",
+          "settings": {
+            "text": "<p>To return or exchange an item:<br\/><br\/>Contact Client Services within 30 days of receipt at <a href=\"mailto:services@ecrinparis.com\" target=\"_blank\">services@ecrinparis.com <\/a>to request a Return Authorisation Number.<br\/><br\/>Please be aware that personalised products cannot be returned. <br\/><br\/>For further information on the terms, conditions and methods of return and exchange, please consult the Return Policy or contact ÉCRIN Client Services at <a href=\"mailto:services@ecrinparis.com\" target=\"_blank\">services@ecrinparis.com<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_AJBekW"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "pagefly_section_Bzb8ND": {
+      "type": "pagefly-section",
+      "settings": {
+        "section_id": "pf-3016b3bc"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_XHGkmm",
+    "rich_text_39ceXa",
+    "pagefly_section_Bzb8ND"
+  ]
+}

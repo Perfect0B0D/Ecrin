@@ -1,0 +1,69 @@
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "image_3qqmYt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_28.png",
+            "image_width": 510,
+            "alignment": "center"
+          }
+        },
+        "link_list_KxRtEL": {
+          "type": "link_list",
+          "settings": {
+            "heading": "<strong>OUR COMPANY<\/strong>",
+            "menu": "our-company"
+          }
+        },
+        "link_list_TKKmLF": {
+          "type": "link_list",
+          "settings": {
+            "heading": "<strong>CUSTOMER CARE<\/strong>",
+            "menu": "customer-care"
+          }
+        },
+        "link_list_T6pL7d": {
+          "type": "link_list",
+          "disabled": true,
+          "settings": {
+            "heading": "<strong>FOLLOW US<\/strong>",
+            "menu": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_3qqmYt",
+        "link_list_KxRtEL",
+        "link_list_TKKmLF",
+        "link_list_T6pL7d"
+      ],
+      "custom_css": [
+        ".footer-block__heading {text-decoration: underline; text-decoration-thickness: 1px; text-decoration-offset: 4px; text-underline-offset: 15px; margin-bottom: 30px;}",
+        ".footer-block__image-wrapper img {width: 300px !important;}",
+        ".footer-block__heading {position: relative;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "newsletter_enable": false,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": false,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": false,
+        "show_policy": false,
+        "margin_top": 0,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}

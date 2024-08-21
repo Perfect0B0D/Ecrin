@@ -1,0 +1,34 @@
+{
+  "name": "t:sections.header.name",
+  "type": "header",
+  "sections": {
+    "header": {
+      "type": "header",
+      "custom_css": [
+        ".header__menu-item {font-size: 15px; margin-left: -20px; color: #000;}",
+        ".header__menu-item:hover span {color: #c22c2f;}",
+        "#HeaderMenu-contact {margin-left: 70px;}",
+        "#HeaderMenu-maison {margin-left: 70px;}",
+        ".header__icons {padding-top: 32px;}"
+      ],
+      "settings": {
+        "logo_position": "middle-center",
+        "menu": "main-menu",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "show_line_separator": false,
+        "color_scheme": "scheme-1",
+        "menu_color_scheme": "scheme-1",
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "header"
+  ]
+}

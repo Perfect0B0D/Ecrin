@@ -1,0 +1,133 @@
+{
+  "sections": {
+    "custom_liquid_RRNbQD": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".custom-home-link {color: black; font-weight:500; text-decoration: none;}",
+        ".custom-home-link:hover {text-decoration: underline;}"
+      ],
+      "settings": {
+        "custom_liquid": "<a href=\"{{ shop.url }}\" class=\"custom-home-link page-width\">Home<\/a>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "collapsible_tab_P3NtfJ": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "SIZE GUIDE",
+            "icon": "none",
+            "content": "<ul><li>If you prefer a snug fit, add only 1 cm (0.4 inches) to your wrist measurement.<\/li><li>For a looser fit, add up to 2 cm (0.8 inches).<\/li><li>When in doubt, it's better to choose a slightly larger size to ensure comfort.<\/li><\/ul>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_FAhNq3": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "SHIPPING & RETURNS",
+            "icon": "none",
+            "content": "<p>You may return your Ecrin piece purchased directly from Ecrin for a full refund within 14 calendar days from the date of purchase by contacting our dedicated Concierge Service at returns@ecipes.com providing your name, address and order number. A member of our concierge team will send you an e-mail acknowledging the receipt of your return request<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "description",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "collapsible_tab_P3NtfJ",
+        "collapsible_tab_FAhNq3"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "color_scheme": "scheme-1",
+        "media_size": "large",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "thumbnail_slider",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "show",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "custom_css": [
+        ".related-products__heading {text-align: center;}"
+      ],
+      "settings": {
+        "heading": "<strong>RELATED PRODUCTS<\/strong>",
+        "heading_size": "h1",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "pagefly-product-section": {
+      "type": "pagefly-product-section",
+      "settings": {}
+    },
+    "pagefly_section_yGa7Y6": {
+      "type": "pagefly-section",
+      "settings": {
+        "section_id": "pf-3016b3bc"
+      }
+    }
+  },
+  "order": [
+    "custom_liquid_RRNbQD",
+    "main",
+    "related-products",
+    "pagefly-product-section",
+    "pagefly_section_yGa7Y6"
+  ]
+}
